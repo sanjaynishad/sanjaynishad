@@ -1,6 +1,6 @@
 # Hi, I'm Sanjay Nishad 👋
 
-**Full‑Stack Developer | Software Architect | Google Partner**
+**Full‑Stack Developer | Software Architect**
 
 Welcome to my GitHub! I design and build high‑quality digital products — from scalable backends to interactive frontends, desktop tools, AI‑powered apps, IoT projects, and everything in between.
 
