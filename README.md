@@ -10,7 +10,6 @@ Welcome to my GitHub! I design and build high‑quality digital products — fro
 
 * 💼 Founder & Developer building custom software solutions
 * 🌐 Experienced with **Node.js**, **Express**, **MongoDB**, **Next.js**, **React**, **Flutter**, **Arduino**, **FastAPI**, **RAG systems**, and **AI integrations**
-* 🤝 Google Partner for Workspace services
 * 🔧 Love building **tools**, **automation systems**, **smart home projects**, and **developer utilities**
 * 📍 Based in **Lucknow, India**
 * 📘 Currently learning **AI stack development**
