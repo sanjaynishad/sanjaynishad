@@ -1,82 +1,59 @@
 # Hi, I'm Sanjay Nishad 👋
 
-**Full‑Stack Developer | Software Architect**
+**Lead Front-End Engineer @ Microsoft · Full-Stack Builder**
 
-Welcome to my GitHub! I design and build high‑quality digital products — from scalable backends to interactive frontends, desktop tools, AI‑powered apps, IoT projects, and everything in between.
+I lead frontend at Microsoft (Bing & MSN Sports) and build full-stack products end-to-end — from architecture and shared libraries to the small tools that ship on the side.
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Founder & Developer building custom software solutions
-* 🌐 Experienced with **Node.js**, **Express**, **MongoDB**, **Next.js**, **React**, **Flutter**, **Arduino**, **FastAPI**, **RAG systems**, and **AI integrations**
-* 🔧 Love building **tools**, **automation systems**, **smart home projects**, and **developer utilities**
-* 📍 Based in **Lucknow, India**
-* 📘 Currently learning **AI stack development**
+- 💼 **Lead Front-End Engineer** at Microsoft — Bing & MSN Sports. Currently working on AI and Edge pages for sports (e.g. [Cricket Internationals](https://www.msn.com/en-in/sports/cricket/cricket-internationals?uxmode=ruby))
+- 🧭 **Technical Advisor / Fractional CTO** to an early-stage AI analytics startup
+- 🛠 Building [**Tooloogle**](https://tooloogle.com) — a growing platform of developer utilities
+- 🤖 Exploring **RAG**, **LLM workflows**, and AI-assisted product surfaces
+- 📍 Based in **Lucknow, India**
 
 ---
 
-## 🧰 Tech Stack I Work With
+## 🧰 Tech I Reach For
 
-### **Frontend**
+**Frontend** — TypeScript, React, Next.js, Tailwind, LitElement, Vite
 
-* React, Next.js, Vite, TypeScript
-* Tailwind CSS, Tiptap Editor, LitElement
-* Ionic React, Capacitor
+**Backend** — Node.js, Express, NestJS, FastAPI, .NET Web API
 
-### **Backend**
+**Data** — MongoDB, PostgreSQL, Redis, ElasticSearch, ChromaDB
 
-* Node.js, Express, FastAPI, NestJS
-* MongoDB, PostgreSQL, SQL
-* ChromaDB, ElasticSearch, Redis
+**Mobile & Desktop** — Flutter, Capacitor, Electron
 
-### **Mobile & Desktop**
+**AI & Edge** — RAG architecture, embeddings (LaBSE / multilingual), Ollama, LLM-powered apps
 
-* Flutter
-* Capacitor apps
+**Cloud & Ops** — Azure, AWS (S3, SES), GitHub Actions, Docker
 
-### **AI & Data**
-
-* RAG Architecture, Embeddings (LaBSE, multilingual models)
-
-* Ollama, LLM‑powered apps
-
-* Metabase Integrations
-
-* Arduino, ESP8266/ESP32
-
-* Smart home automation systems
+**IoT** — Arduino, ESP8266/ESP32, smart-home automation
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Selected Projects
 
-### 🔹 **AI Hebrew Assistant (RAG + FastAPI)**
-
-AI chatbot that answers Hebrew queries using thousands of local documents.
-
-### 🔹 **Smart Home Automation App (Flutter + ESP32)**
-
-Custom mobile app to control home devices with API‑based automation.
-
-### 🔹 **Tooloogle – Online Tools Platform**
-
-A growing collection of web tools like formatters, converters, generators & utilities.
-
-### 🔹 **Developer Utilities & Packages**
-
-PNPM monorepo tools, JSON viewers, code formatters, and performance‑optimised packages.
+- **[Tooloogle](https://tooloogle.com)** — online developer-utilities platform (formatters, converters, generators)
+- **AI Hebrew Assistant** — RAG chatbot over thousands of local documents (FastAPI + ChromaDB)
+- **Smart Home Automation** — Flutter app + ESP32 firmware for API-driven device control
+- **Developer utilities & packages** — pnpm monorepo tooling, JSON viewers, code formatters
 
 ---
 
-## 📝 Latest Things I'm Working On
+## ✍️ Writing
 
-* Helping startups as a **Fractional CTO**, architecting scalable products
-* Building **open‑source tools and utilities**
-* Exploring **AI, RAG systems, and LLM workflows**
+I occasionally write about production engineering, DevOps, and AI patterns.
+
+→ **[sanjaynishad.com/blog](https://sanjaynishad.com/blog/)** ([RSS](https://sanjaynishad.com/rss.xml))
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-* 🌐 **Portfolio/Website:** [https://sanjaynishad.com/](https://sanjaynishad.com/)*
+- 🌐 [sanjaynishad.com](https://sanjaynishad.com/)
+- 💼 [LinkedIn](https://in.linkedin.com/in/sanjaynishad)
+- 💬 [Stack Overflow](https://stackoverflow.com/users/5313366/sanjay-nishad)
+- ✉️ hello@sanjaynishad.com
