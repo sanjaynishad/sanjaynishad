@@ -53,7 +53,7 @@ I occasionally write about production engineering, DevOps, and AI patterns.
 
 ## 📫 Connect
 
-- 🌐 [sanjaynishad.com](https://sanjaynishad.com/)
+- 🌐 [sanjaynishad.com](https://www.sanjaynishad.com/)
 - 💼 [LinkedIn](https://in.linkedin.com/in/sanjaynishad)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/5313366/sanjay-nishad)
 - ✉️ hello@sanjaynishad.com
